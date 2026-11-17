@@ -10,5 +10,19 @@
   "scripts": {
     "demo": "node scripts/demo.js",
     "benchmark": "node scripts/benchmark-lookup.js"
-  }
+  },
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elozi/das-2026-capstone-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elozi/das-2026-capstone-project/issues"
+  },
+  "homepage": "https://github.com/Elozi/das-2026-capstone-project#readme"
 }
